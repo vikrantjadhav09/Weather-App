@@ -1,0 +1,24 @@
+.SearchBox {
+    width: 350px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 12px;
+
+    background: #ffffff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.12);
+    text-align: center;
+    font-family: "Segoe UI", sans-serif;
+}
+
+
+
+.SearchBox form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.SearchBox button {
+    margin-top: 10px;
+    width: 120px;
+}

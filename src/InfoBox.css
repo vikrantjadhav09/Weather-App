@@ -1,0 +1,18 @@
+.InfoBox {
+    text-align: center;
+    width: 350px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 12px;
+
+    background: #ffffff;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.12);
+
+    font-family: "Segoe UI", sans-serif;
+}
+
+.CardContainer {
+    display: flex;
+    justify-content: center;
+
+}
