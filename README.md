@@ -6,7 +6,7 @@ This app allows users to enter a city name and view real-time weather details.
 ---
 
 # 🚀 Live Demo
-👉 https://your-weather-app.vercel.app
+👉 https://weather-app-by-codervikky.vercel.app/
 
 ## 🚀 Features
 
